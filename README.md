@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enocklyn
 - 👀 I’m interested in ...Java Spring 
-- 🌱 I’m currently learning ...Angar
+- 🌱 I’m currently learning ...AngularJs
 - 💞️ I’m looking to collaborate on ... innovative projects
 - 📫 How to reach me ... enocklyn@yahoo.com, +233 241232915
 
